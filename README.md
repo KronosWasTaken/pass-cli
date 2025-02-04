@@ -24,7 +24,7 @@ pip install cryptography keyring
 Run the password manager:
 
 ```sh
-python password_manager.py
+python pass-cli.py
 ```
 
 ### Features & Commands
